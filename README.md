@@ -3,3 +3,7 @@
   
   ![Screenshot](architecture.png)
   
+  The architecture is able to predict "The cat is sitting on the road".
+  
+  Few of the outputs:
+  
